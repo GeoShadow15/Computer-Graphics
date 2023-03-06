@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import math 
 
+#test
 
 x1 = np.array([1, 2.1])
 x2 = np.array([4, 8.6])
